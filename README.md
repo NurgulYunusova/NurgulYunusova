@@ -9,10 +9,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif">
 
-<p align="left"> 
-  <img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=NurgulYunusova&label=Visitors&color=064581&style=for-the-badge"/>
-</p>
-
 <a href="https://www.codewars.com/users/NurgulYunusova" target="_blank" align="left">
   <img src="https://www.codewars.com/users/NurgulYunusova/badges/large" alt="NurgulYunusova" />
 </a> </br> </br>
