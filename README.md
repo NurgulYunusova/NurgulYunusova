@@ -9,10 +9,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif">
 
-<a href="https://www.codewars.com/users/NurgulYunusova" target="_blank" align="left">
-  <img src="https://www.codewars.com/users/NurgulYunusova/badges/large" alt="NurgulYunusova" />
-</a> </br> </br>
-
 - 🌱 I’m currently learning **ReactJS**
 - ⚡ Fun fact: I'm a big fan of cats
 - 📫 You can reach me via [Email](mailto:nurgulyunusovaa@gmail.com)
