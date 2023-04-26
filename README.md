@@ -11,19 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 - ⚡ Fun fact: I'm a big fan of cats
-- 📫 You can reach me via [Email](mailto:nurgulyunusovaa@gmail.com)
-
-<h3 align="left">
-  Find me elsewhere:
-</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nyunusova" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="NurgulYunusova" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/nurgulyunusova" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="NurgulYunusova" height="50" width="50" />
-  </a>
-</p>
+- 📫 You can reach me via [Email](mailto:nurgulyunusovaa@gmail.com) and [LinkedIn](https://linkedin.com/in/nyunusova)
 
 <h3 align="left">Languages and Tools:</h3>
 
