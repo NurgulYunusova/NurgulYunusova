@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif">
+<img align="right" alt="Coding" width="400" src="https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif">
 
 - 🌱 I’m currently learning **ReactJS**
 - ⚡ Fun fact: I'm a big fan of cats
