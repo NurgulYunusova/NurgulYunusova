@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif">
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN stack**
 
 - ⚡ Fun fact: I'm a big fan of cats
 
