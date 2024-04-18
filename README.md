@@ -24,6 +24,7 @@
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" title="TypeScript" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" title="SASS" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" title="JSON" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" title="jQuery" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" title="ReactJS" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="MongoDB" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" title="Express.js" width="40" height="40"/>
