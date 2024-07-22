@@ -32,4 +32,5 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" title="Github" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" title="VS Code" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" title="Java" width="40" height="40"/>
 </p>
