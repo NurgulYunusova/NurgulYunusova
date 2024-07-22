@@ -3,13 +3,13 @@
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=064581&center=true&vCenter=true&width=435&lines=Front-end+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=064581&center=true&vCenter=true&width=435&lines=Full-stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif">
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java**
 
 - ⚡ Fun fact: I'm a big fan of cats
 
