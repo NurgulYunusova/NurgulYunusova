@@ -9,6 +9,8 @@
 
 <img align="right" alt="Coding" width="350" src="https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif">
 
+![](https://komarev.com/ghpvc/?username=NurgulYunusova)
+
 - 🌱 I’m currently learning **Java**
 
 - ⚡ Fun fact: I'm a big fan of cats
